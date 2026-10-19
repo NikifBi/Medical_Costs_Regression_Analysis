@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OS & Editor Specific
+.vscode/
+.DS_Store
+Thumbs.db
