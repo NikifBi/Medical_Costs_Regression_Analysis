@@ -42,3 +42,19 @@ Medical_Costs_Regression_Analysis/
 ├── .gitignore                 # Git ignore rules
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
+
+---
+
+## 🛠️ Installation & Quickstart
+
+To run this repository locally:
+
+1. Clone the repository:
+   git clone [https://github.com/NikifBi/Medical_Costs_Regression_Analysis.git](https://github.com/NikifBi/Medical_Costs_Regression_Analysis.git)
+   cd Medical_Costs_Regression_Analysis
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the notebook:
+   jupyter notebook "Medical Costs.ipynb"
